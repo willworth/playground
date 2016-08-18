@@ -1,4 +1,5 @@
-This is a simple get you going git workflow.
+This is a simple get-you-going git workflow.
+All of this is in the terminal (except creating the repo on github).
 /////////////////////////////////////////
 1
 in local dir
